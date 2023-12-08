@@ -1,4 +1,0 @@
-testing
-strictlyPositive
-	
-	^amount strictlyPositive

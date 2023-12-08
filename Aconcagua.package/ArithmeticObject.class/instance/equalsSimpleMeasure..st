@@ -1,4 +1,0 @@
-comparing
-equalsSimpleMeasure: aMeasure
-
-	self subclassResponsibility

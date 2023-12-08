@@ -1,4 +1,0 @@
-*Aconcagua-Extensions
-isCompoundMeasure
-
-	^false
